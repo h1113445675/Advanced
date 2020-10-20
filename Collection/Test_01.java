@@ -27,6 +27,7 @@ public class Test_01 {
             Object obj= c.next();
             System.out.println(obj);
         }
+        System.out.println(a.contains(u2));
 
 
     }
